@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//supriya5645/todoList/static/css/main.2081189c.css",
+    "main.js": "/https//supriya5645/todoList/static/js/main.dca1b8ef.js",
+    "index.html": "/https//supriya5645/todoList/index.html",
+    "main.2081189c.css.map": "/https//supriya5645/todoList/static/css/main.2081189c.css.map",
+    "main.dca1b8ef.js.map": "/https//supriya5645/todoList/static/js/main.dca1b8ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2081189c.css",
+    "static/js/main.dca1b8ef.js"
+  ]
+}
